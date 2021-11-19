@@ -1,4 +1,4 @@
-package com.app.fragment_gibransyah_ak_xi_rpl_1.fragment
+    package com.app.fragment_gibransyah_ak_xi_rpl_1.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
